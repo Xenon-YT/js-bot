@@ -1,0 +1,23 @@
+{
+  "name": "js-bot",
+  "version": "1.0.0",
+  "description": "Un bot telegram usando javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenon-YT/js-telegram-bot.git"
+  },
+  "author": "Giuseppe Quattrocchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xenon-YT/js-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Xenon-YT/js-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
